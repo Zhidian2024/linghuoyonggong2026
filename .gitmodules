@@ -1,0 +1,3 @@
+[submodule "admin/com/net/core"]
+	path = admin/com/net/core
+	url  = https://gitee.com/houyiji/linghuoyonggong
