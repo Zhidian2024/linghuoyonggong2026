@@ -9,3 +9,7 @@
 [submodule "server/conttl/contraller"]
 	path = server/conttl/contraller
 	url  = https://gitee.com/houyiji/linghuoyonggong
+
+[submodule "user/page/vite"]
+	path = user/page/vite
+	url  = https://gitee.com/houyiji/linghuoyonggong
