@@ -1,3 +1,7 @@
 [submodule "admin/com/net/core"]
 	path = admin/com/net/core
 	url  = https://gitee.com/houyiji/linghuoyonggong
+
+[submodule "company/uniapp/pages"]
+	path = company/uniapp/pages
+	url  = https://gitee.com/houyiji/linghuoyonggong
